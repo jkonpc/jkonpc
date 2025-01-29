@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Jesse Kennedy</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="[https://www.linkedin.com/in/jesse-kennedy-61b334135/]">Jesse Kennedy</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 Driven by a passion for cybersecurity, I'm embarking on a new chapter in my journey. I'm captivated by the dynamic nature of this field and the constant need for adaptation. My hands-on experience, ranging from vulnerability management to advanced threat detection, has instilled in me a deep sense of purpose. I'm eager to contribute my skills and knowledge to a forward-thinking organization. I invite you to review my projects and witness the dedication I've invested in strengthening security operations and processes.
 

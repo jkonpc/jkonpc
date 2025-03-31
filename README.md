@@ -47,7 +47,7 @@ Recon/enumeration script packs, curl+SMB modules, payload helpers
 
 ## 🔗 Links
 
-- GitBook: [CyberOps Notebook](https://jkonpc.gitbook.io/jkonpc)
+- GitBook: [CyberOps Notebook](https://jkonpc.gitbook.io/home)
 - LinkedIn: [jesse-kennedy](https://linkedin.com/in/jesse-kennedy)
 - GitHub: [jkonpc](https://github.com/jkonpc)
 

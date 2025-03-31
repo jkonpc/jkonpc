@@ -1,44 +1,45 @@
-# 🛡️ Jesse Kennedy | @jkonpc
+# Jesse Kennedy | jkonpc
 
-> 20-year Army veteran turned Offensive Security Operator. Focused on mastering Active Directory exploitation, red team operations, and developing tooling for modern adversary emulation.
+20-year Army veteran turned Offensive Security Operator.
 
----
-
-## 🎯 Mission
-
-I’m building a post-military cyber career with the same mindset I carried into every real-world deployment:  
-✅ Discipline, ✅ precision, ✅ repeatability under pressure.
-
-Currently working through:
-- 🎓 CPTS (Certified Penetration Testing Specialist)
-- 🎯 PEN-200 / OSCP path
-- 🛠️ Custom tooling with Bash & Python
-- 📈 Real-world enumeration, pivoting, and persistence labs
+Currently transitioning into red team operations, with a sharp focus on real-world TTPs, adversary emulation, and technical precision built on battlefield discipline.
 
 ---
 
-## 🔧 Active Projects
+## Mission Profile
 
-- **📘 [Cyber Operator GitBook](https://your.gitbook.link)** – Offensive notes, TTPs, and walkthroughs
-- **💣 Tools** – Coming soon: SMB/Curl Enum script pack & red team helpers
-- **🧪 HTB & CPTS Labs** – Documented in GitBook as practical writeups
+I'm not in cyber for the titles or badges—I'm here to break things, understand them, and make networks harder to kill.
 
----
-
-## 📜 Certifications
-
-- ✅ CompTIA Security+  
-- ✅ CompTIA Linux+  
-- ✅ Splunk Core Certified  
-- 🔄 CPTS (in progress)  
-- 🔄 OSCP (in progress)
+Active goals:
+- CPTS (Hack The Box)
+- PEN-200 / OSCP Path
+- Custom tooling in Bash & Python
+- Documented offensive playbook (GitBook)
 
 ---
 
-## 💬 Let’s Connect
+## Active Projects
 
-- [🔗 LinkedIn](https://linkedin.com/in/jesse-kennedy)
-- [🧠 GitBook](https://your.gitbook.link)
-- [📫 Contact](mailto:youremail@protonmail.com)
+- Cyber Operator GitBook (walkthroughs, techniques, tooling)
+- Pentest tooling repo (scripts, payload helpers, enum packs)
+- Ongoing labs: Active Directory, Pivoting, SMB Abuse
 
-> _“Train like you fight. Log like you breach.”_
+---
+
+## Certifications
+
+- CompTIA Security+
+- CompTIA Linux+
+- Splunk Core Certified
+- CPTS (in progress)
+- OSCP (in progress)
+
+---
+
+## Contact & Links
+
+- LinkedIn: [jesse-kennedy](https://linkedin.com/in/jesse-kennedy)
+- GitBook: [Cyber Ops Notebook](https://your.gitbook.link)
+- GitHub: [jkonpc](https://github.com/jkonpc)
+
+> Train like you fight. Log like you breach.

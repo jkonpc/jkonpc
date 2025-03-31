@@ -1,45 +1,56 @@
-# Jesse Kennedy | jkonpc
+# Jesse Kennedy | @jkonpc
 
-20-year Army veteran turned Offensive Security Operator.
+────────────────────────────────────────────
+**Offensive Security | Red Teaming | Cyber Operator**
+────────────────────────────────────────────
 
-Currently transitioning into red team operations, with a sharp focus on real-world TTPs, adversary emulation, and technical precision built on battlefield discipline.
+20-year Army veteran transitioning into digital warfare.
 
----
-
-## Mission Profile
-
-I'm not in cyber for the titles or badges—I'm here to break things, understand them, and make networks harder to kill.
-
-Active goals:
-- CPTS (Hack The Box)
-- PEN-200 / OSCP Path
-- Custom tooling in Bash & Python
-- Documented offensive playbook (GitBook)
+I document, develop, and execute adversary emulation techniques with the same discipline I brought to every real-world deployment.
 
 ---
 
-## Active Projects
+## ▶️ What I'm Building
 
-- Cyber Operator GitBook (walkthroughs, techniques, tooling)
-- Pentest tooling repo (scripts, payload helpers, enum packs)
-- Ongoing labs: Active Directory, Pivoting, SMB Abuse
-
----
-
-## Certifications
-
-- CompTIA Security+
-- CompTIA Linux+
-- Splunk Core Certified
-- CPTS (in progress)
-- OSCP (in progress)
+- [x] Transition to full-time cyber operations
+- [x] Complete CPTS (HTB) and PEN-200 (OSCP Path)
+- [x] Build out personal TTP notebook (GitBook)
+- [ ] Develop internal red team tools & payloads
+- [ ] Publish HTB-style walkthroughs and attack flows
 
 ---
 
-## Contact & Links
+## 📁 Projects
 
+**Cyber Operator Notebook (GitBook)**  
+My ongoing field manual. Focused on:
+- Enumeration, initial access, privilege escalation
+- Active Directory attacks
+- Pivoting, persistence, lateral movement
+
+**Tooling (Coming Soon)**  
+Recon/enumeration script packs, curl+SMB modules, payload helpers
+
+---
+
+## 🎓 Certifications
+
+| Certification              | Status        |
+|---------------------------|----------------|
+| CompTIA Security+         | ✅ Completed   |
+| CompTIA Linux+            | ✅ Completed   |
+| Splunk Core Certified     | ✅ Completed   |
+| CPTS (HTB)                | 🔄 In Progress |
+| PEN-200 / OSCP            | 🔄 In Progress |
+
+---
+
+## 🔗 Links
+
+- GitBook: [CyberOps Notebook](https://jkonpc.gitbook.io/jkonpc)
 - LinkedIn: [jesse-kennedy](https://linkedin.com/in/jesse-kennedy)
-- GitBook: [Cyber Ops Notebook](https://your.gitbook.link)
 - GitHub: [jkonpc](https://github.com/jkonpc)
 
-> Train like you fight. Log like you breach.
+---
+
+> *“Persistence is Key”*

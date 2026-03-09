@@ -8,7 +8,7 @@ Offensive security. I break things methodically and write about it.
 
 ### Recent Writeups
 
-- [Expressway Walkthrough](https://jkonpc.github.io/posts/expressway-hackthebox/))
+- [Expressway Walkthrough](https://jkonpc.github.io/posts/expressway-hackthebox/)
 - [Welcome to the Blog](https://jkonpc.github.io/posts/welcome-to-the-blog/)
 - [How I Passed CPTS](https://jkonpc.github.io/posts/how-i-passed-htb-cpts/)
 

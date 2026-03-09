@@ -15,6 +15,7 @@ Offensive security. I break things methodically and write about it.
 ### Tools
 
 - [recon_dns](https://github.com/jkonpc/recon_dns) — Passive DNS recon + crt.sh subdomain discovery + HTTP probing
+- [xss-c2](https://github.com/jkonpc/xss-c2)
 
 [![Blog](https://img.shields.io/badge/Blog-jkonpc.github.io-blue)](https://jkonpc.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesse_Kennedy-0077B5)](https://www.linkedin.com/in/jesse-kennedy)

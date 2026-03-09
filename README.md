@@ -4,13 +4,13 @@ Offensive security. I break things methodically and write about it.
 
 - Pentesting methodology, AD exploitation, network pivoting
 - Python and Bash tooling
-- Currently pursuing BSCP and OSCP
+- Currently pursuing CWES and CRTO
 
 ### Recent Writeups
 
-- [Overwatch — HackTheBox](https://jkonpc.github.io/posts/overwatch-hackthebox/)
-- [Pivoting Skills Assessment — HTB Academy](https://jkonpc.github.io/posts/pivoting-skills-assessment-htb/)
-- [SQLi Fundamentals Assessment — HTB Academy](https://jkonpc.github.io/posts/sqli-fundamentals-assessment-htb/)
+- [Expressway Walkthrough](https://jkonpc.github.io/posts/expressway-hackthebox/))
+- [Welcome to the Blog](https://jkonpc.github.io/posts/welcome-to-the-blog/)
+- [How I Passed CPTS](https://jkonpc.github.io/posts/how-i-passed-htb-cpts/)
 
 ### Tools
 

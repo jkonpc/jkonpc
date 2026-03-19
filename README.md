@@ -11,11 +11,13 @@ Offensive security. I break things methodically and write about it.
 - [Expressway Walkthrough](https://jkonpc.github.io/posts/expressway-hackthebox/)
 - [Welcome to the Blog](https://jkonpc.github.io/posts/welcome-to-the-blog/)
 - [How I Passed CPTS](https://jkonpc.github.io/posts/how-i-passed-htb-cpts/)
+- [Principal Walkthrough](https://jkonpc.github.io/posts/principal-hackthebox/)
 
 ### Tools
-
+- [ffuffer](https://github.com/jkonpc/ffuffer) — Build ffuf commands from raw HTTP requests — like sqlmap -r
 - [recon_dns](https://github.com/jkonpc/recon_dns) — Passive DNS recon + crt.sh subdomain discovery + HTTP probing
-- [xss-c2](https://github.com/jkonpc/xss-c2)
+- [xss-c2](https://github.com/jkonpc/xss-c2) — Lightweight XSS Command & Control framework for penetration testers.
+- [htbscan](https://github.com/jkonpc/htbscan) — adaptive nmap scanner that escalates through increasingly aggressive scan techniques until it finds open ports
 
 [![Blog](https://img.shields.io/badge/Blog-jkonpc.github.io-blue)](https://jkonpc.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesse_Kennedy-0077B5)](https://www.linkedin.com/in/jesse-kennedy)

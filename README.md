@@ -10,18 +10,6 @@ Offensive security. I break things methodically and write about it.
 
 ---
 
-### Recent Writeups
-
-- [Garfield — HackTheBox](https://jkonpc.github.io/posts/garfield-hackthebox/)
-- [DevArea — HackTheBox](https://jkonpc.github.io/posts/devarea-hackthebox/)
-- [Facts — HackTheBox](https://jkonpc.github.io/posts/facts-hackthebox/)
-- [Principal — HackTheBox](https://jkonpc.github.io/posts/principal-hackthebox/)
-- [WingData — HackTheBox](https://jkonpc.github.io/posts/wingdata-hackthebox/)
-
-More at [jkonpc.github.io](https://jkonpc.github.io)
-
----
-
 ### Tools
 
 - [ffuffer](https://github.com/jkonpc/ffuffer) — Build ffuf commands from raw HTTP requests, like `sqlmap -r`
